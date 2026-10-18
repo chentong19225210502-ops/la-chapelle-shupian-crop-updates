@@ -1,6 +1,6 @@
 {
   "app": "la-chapelle-shupian-crop-tool",
-  "version": "1.0.1",
-  "download_url": "https://github.com/chentong19225210502-ops/la-chapelle-shupian-crop-updates/releases/download/v1.0.1/default.exe",
-  "notes": "修复 800 方图背景补边问题，减少人物或物体贴近边缘时被镜像复制到补边区域；保持 800/750 输出尺寸，750 仍直接从原图生成。"
+  "version": "1.0.6",
+  "download_url": "https://github.com/chentong19225210502-ops/la-chapelle-shupian-crop-updates/releases/download/v1.0.6/default.exe",
+  "notes": "基于 V1.0.6 原版逻辑，仅新增一次性多选文件夹功能；其他裁图、补边、抠图与成品覆盖规则沿用原版。"
 }
